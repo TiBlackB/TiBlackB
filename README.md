@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy there 👋
 
 This is my business README
 
